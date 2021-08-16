@@ -1,0 +1,207 @@
+INFO	2021-07-28 00:40:45,850	0	ProductApp	[main]	Employee starting deposit section
+INFO	2021-07-28 00:41:25,102	39252	ProductApp	[main]	after deposit of 500 the balance in your account is:1100
+INFO	2021-07-28 00:43:11,800	145950	ProductApp	[main]	Employee starting withdrawal section
+INFO	2021-07-28 00:43:16,917	151067	ProductApp	[main]	after withdrawal of 100 the balance in your account is:1600
+INFO	2021-07-28 00:44:52,047	246197	ProductApp	[main]	Employee starting deposit section
+INFO	2021-07-28 00:45:05,619	259769	ProductApp	[main]	after deposit of 100 the balance in your account is:1500
+INFO	2021-07-28 00:47:39,499	413649	ProductApp	[main]	Employee starting withdrawal section
+ERROR	2021-07-28 00:47:45,783	419933	ProductApp	[main]	Negative amount cannot be withdrawn
+INFO	2021-07-28 00:47:53,734	427884	ProductApp	[main]	Employee starting deposit section
+INFO	2021-07-28 00:48:29,277	463427	ProductApp	[main]	after deposit of 200 the balance in your account is:700
+INFO	2021-07-28 00:48:48,725	482875	ProductApp	[main]	Employee starting withdrawal section
+INFO	2021-07-28 00:48:54,944	489094	ProductApp	[main]	after withdrawal of 200 the balance in your account is:900
+INFO	2021-07-28 08:07:39,451	0	ProductApp	[main]	Employee starting withdrawal sectionWed Jul 28 08:07:39 IST 2021
+INFO	2021-07-28 08:08:20,621	41170	ProductApp	[main]	after withdrawal of 100 the balance in your account is:1000
+INFO	2021-07-28 08:10:33,054	0	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 08:10:33 IST 2021
+INFO	2021-07-28 08:10:48,014	14960	ProductApp	[main]	withdrawn successful! Wed Jul 28 08:10:48 IST 2021
+INFO	2021-07-28 08:11:04,789	31735	ProductApp	[main]	Employee starting deposit section
+INFO	2021-07-28 08:11:17,549	44495	ProductApp	[main]	after deposit of 200 the balance in your account is:800
+INFO	2021-07-28 08:36:19,694	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 08:37:06,163	0	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-28 08:37:24,134	17971	ProductApp	[main]	after withdrawal of 100 the balance in your account is:900
+INFO	2021-07-28 20:11:08,314	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 20:14:19,680	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 20:14:37,320	17640	ProductApp	[main]	User starting Find customer by Id section
+INFO	2021-07-28 20:14:44,888	25208	ProductApp	[main]	Customer with 2 found successfully
+INFO	2021-07-28 20:14:48,904	29224	ProductApp	[main]	User starting Find customer by Name section
+INFO	2021-07-28 20:14:55,568	35888	ProductApp	[main]	Customer with shalini found successfully
+INFO	2021-07-28 20:15:30,864	71184	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 20:15:30 IST 2021
+INFO	2021-07-28 20:15:52,380	92700	ProductApp	[main]	withdrawn successful! Wed Jul 28 20:15:52 IST 2021
+INFO	2021-07-28 20:16:05,986	106306	ProductApp	[main]	Employee starting deposit section
+INFO	2021-07-28 20:16:21,590	121910	ProductApp	[main]	deposit successful! Wed Jul 28 20:16:21 IST 2021
+INFO	2021-07-28 20:18:03,791	224111	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-28 20:18:30,194	250514	ProductApp	[main]	after withdrawal of 200 the balance in your account is:700
+INFO	2021-07-28 20:19:05,778	286098	ProductApp	[main]	customer starting deposit section
+INFO	2021-07-28 20:19:49,401	329721	ProductApp	[main]	after deposit of 200 the balance in your account is:700
+INFO	2021-07-28 22:34:12,251	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 22:36:27,112	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 22:39:07,292	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 22:39:17,462	10170	ProductApp	[main]	User starting delete customer section
+INFO	2021-07-28 22:39:20,598	13306	ProductApp	[main]	#customer withcustomer Id : 666 , deleted successfully
+INFO	2021-07-28 22:39:24,582	17290	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 22:41:17,563	130271	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 22:42:28,747	0	ProductApp	[main]	User starting delete customer section
+INFO	2021-07-28 22:42:32,672	3925	ProductApp	[main]	#customer withcustomer Id : 666 , deleted successfully
+INFO	2021-07-28 22:42:34,735	5988	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 22:53:04,196	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 22:54:24,506	80310	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 23:08:24,216	0	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 23:08:24 IST 2021
+ERROR	2021-07-28 23:08:31,169	6953	ProductApp	[main]	Negative amount cannot be withdrawn
+INFO	2021-07-28 23:09:05,128	40912	ProductApp	[main]	customer starting withdrawal section
+ERROR	2021-07-28 23:09:13,798	49582	ProductApp	[main]	Negative amount cannot be withdrawn
+INFO	2021-07-28 23:10:37,519	0	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-28 23:11:00,884	23365	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-28 23:21:34,331	0	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-28 23:21:41,547	7216	ProductApp	[main]	Withdrawn successfully!
+INFO	2021-07-28 23:21:56,497	22166	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-28 23:22:01,749	27418	ProductApp	[main]	you cannot withdraw negative amount!
+INFO	2021-07-28 23:23:50,077	0	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-28 23:51:37,655	0	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 23:51:42,632	4977	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 23:51:42 IST 2021
+INFO	2021-07-28 23:51:55,586	17931	ProductApp	[main]	withdrawn successful! Wed Jul 28 23:51:55 IST 2021
+INFO	2021-07-28 23:55:48,781	1	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 23:55:48 IST 2021
+INFO	2021-07-28 23:55:57,495	8715	ProductApp	[main]	withdrawn successful! Wed Jul 28 23:55:57 IST 2021
+INFO	2021-07-28 23:56:00,560	11780	ProductApp	[main]	User starting view all customers section
+INFO	2021-07-28 23:56:15,708	26928	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 23:56:15 IST 2021
+INFO	2021-07-28 23:56:19,275	30495	ProductApp	[main]	withdrawn successful! Wed Jul 28 23:56:19 IST 2021
+INFO	2021-07-28 23:57:57,227	0	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 23:57:57 IST 2021
+INFO	2021-07-28 23:58:04,476	7249	ProductApp	[main]	withdrawn successful! Wed Jul 28 23:58:04 IST 2021
+INFO	2021-07-28 23:58:26,011	28784	ProductApp	[main]	Employee starting withdrawal section Wed Jul 28 23:58:26 IST 2021
+INFO	2021-07-28 23:58:30,029	32802	ProductApp	[main]	withdrawn successful! Wed Jul 28 23:58:30 IST 2021
+INFO	2021-07-29 11:49:38,879	0	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 11:49:38 IST 2021
+INFO	2021-07-29 11:49:54,098	15219	ProductApp	[main]	withdrawn successful! Thu Jul 29 11:49:54 IST 2021
+INFO	2021-07-29 11:50:00,191	21312	ProductApp	[main]	User starting view all employees sectionThu Jul 29 11:50:00 IST 2021
+INFO	2021-07-29 11:50:08,613	29734	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 11:50:08 IST 2021
+INFO	2021-07-29 11:50:17,424	38545	ProductApp	[main]	withdrawn successful! Thu Jul 29 11:50:17 IST 2021
+INFO	2021-07-29 11:50:29,574	50695	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 11:50:29 IST 2021
+INFO	2021-07-29 12:02:59,766	0	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 12:02:59 IST 2021
+INFO	2021-07-29 12:20:32,989	0	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 12:20:32 IST 2021
+INFO	2021-07-29 12:20:45,517	12528	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 12:20:45 IST 2021
+INFO	2021-07-29 12:20:48,890	15901	ProductApp	[main]	Withdrawn successfully!
+INFO	2021-07-29 14:04:18,703	0	ProductApp	[main]	User starting view all customers sectionThu Jul 29 14:04:18 IST 2021
+INFO	2021-07-29 14:04:24,512	5809	ProductApp	[main]	User starting view all employees sectionThu Jul 29 14:04:24 IST 2021
+INFO	2021-07-29 14:06:14,926	116223	ProductApp	[main]	User starting view all customers sectionThu Jul 29 14:06:14 IST 2021
+INFO	2021-07-29 14:06:15,893	117190	ProductApp	[main]	User starting view all employees sectionThu Jul 29 14:06:15 IST 2021
+INFO	2021-07-29 14:08:34,412	255709	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 14:08:34 IST 2021
+INFO	2021-07-29 14:08:51,044	272341	ProductApp	[main]	Withdrawn successfully!
+INFO	2021-07-29 14:08:56,545	277842	ProductApp	[main]	User starting view all employees sectionThu Jul 29 14:08:56 IST 2021
+INFO	2021-07-29 14:09:17,036	298333	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 14:09:17 IST 2021
+ERROR	2021-07-29 14:09:21,544	302841	ProductApp	[main]	employee not exists!
+INFO	2021-07-29 21:30:52,706	0	ProductApp	[main]	User starting view all customers sectionThu Jul 29 21:30:52 IST 2021
+INFO	2021-07-29 21:30:54,237	1531	ProductApp	[main]	User starting view all employees sectionThu Jul 29 21:30:54 IST 2021
+INFO	2021-07-29 22:01:35,424	0	ProductApp	[main]	User starting view all customers sectionThu Jul 29 22:01:35 IST 2021
+INFO	2021-07-29 22:01:41,844	6420	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:01:41 IST 2021
+INFO	2021-07-29 22:02:00,838	25414	ProductApp	[main]	User starting delete customer sectionThu Jul 29 22:02:00 IST 2021
+INFO	2021-07-29 22:02:19,986	44562	ProductApp	[main]	#customer withcustomer Id : 6 , deleted successfully
+INFO	2021-07-29 22:02:28,735	53311	ProductApp	[main]	User starting view all customers sectionThu Jul 29 22:02:28 IST 2021
+INFO	2021-07-29 22:02:40,022	64598	ProductApp	[main]	User starting Find customer by Id sectionThu Jul 29 22:02:40 IST 2021
+INFO	2021-07-29 22:02:43,747	68323	ProductApp	[main]	Customer with 3 found successfully
+INFO	2021-07-29 22:02:59,033	83609	ProductApp	[main]	User starting Find customer by Name sectionThu Jul 29 22:02:59 IST 2021
+INFO	2021-07-29 22:03:07,127	91703	ProductApp	[main]	Customer with surya found successfully
+INFO	2021-07-29 22:03:16,305	100881	ProductApp	[main]	User starting Find employee by Id sectionThu Jul 29 22:03:16 IST 2021
+INFO	2021-07-29 22:03:21,348	105924	ProductApp	[main]	employee with 111 found successfully
+INFO	2021-07-29 22:03:26,898	111474	ProductApp	[main]	User starting Find employee by Name sectionThu Jul 29 22:03:26 IST 2021
+INFO	2021-07-29 22:03:29,563	114139	ProductApp	[main]	employee with pavithra found successfully
+INFO	2021-07-29 22:03:36,374	120950	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 22:03:36 IST 2021
+INFO	2021-07-29 22:03:49,486	134062	ProductApp	[main]	Withdrawn successfully!
+INFO	2021-07-29 22:03:56,646	141222	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:03:56 IST 2021
+INFO	2021-07-29 22:04:03,412	147988	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 22:04:03 IST 2021
+INFO	2021-07-29 22:04:17,218	161794	ProductApp	[main]	Employee starting deposit sectionThu Jul 29 22:04:17 IST 2021
+INFO	2021-07-29 22:04:20,463	165039	ProductApp	[main]	deposited succesfully!
+INFO	2021-07-29 22:04:23,918	168494	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:04:23 IST 2021
+INFO	2021-07-29 22:05:27,874	232450	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:05:27 IST 2021
+INFO	2021-07-29 22:06:16,985	281561	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:06:16 IST 2021
+INFO	2021-07-29 22:33:19,281	1	ProductApp	[main]	User starting delete customer sectionThu Jul 29 22:33:19 IST 2021
+ERROR	2021-07-29 22:33:21,335	2055	ProductApp	[main]	customer with customer Id : 100 , not deleted successfully
+INFO	2021-07-29 22:36:25,584	0	ProductApp	[main]	User starting delete employee sectionThu Jul 29 22:36:25 IST 2021
+ERROR	2021-07-29 22:36:31,553	5969	ProductApp	[main]	employee with employee Id : 990 , not deleted successfully
+INFO	2021-07-29 22:36:47,076	21492	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:36:47 IST 2021
+INFO	2021-07-29 22:36:52,859	27275	ProductApp	[main]	User starting delete employee sectionThu Jul 29 22:36:52 IST 2021
+INFO	2021-07-29 22:36:54,086	28502	ProductApp	[main]	#employee with employee Id : 100 , deleted successfully
+INFO	2021-07-29 22:36:59,398	33814	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:36:59 IST 2021
+INFO	2021-07-29 22:40:39,245	0	ProductApp	[main]	User starting delete customer sectionThu Jul 29 22:40:39 IST 2021
+ERROR	2021-07-29 22:40:42,698	3453	ProductApp	[main]	employee not exists
+ERROR	2021-07-29 22:40:42,698	3453	ProductApp	[main]	customer with customer Id : 0 , not deleted successfully
+INFO	2021-07-29 22:40:57,638	18393	ProductApp	[main]	User starting view all customers sectionThu Jul 29 22:40:57 IST 2021
+INFO	2021-07-29 22:41:00,977	21732	ProductApp	[main]	User starting delete customer sectionThu Jul 29 22:41:00 IST 2021
+ERROR	2021-07-29 22:41:03,551	24306	ProductApp	[main]	employee not exists
+ERROR	2021-07-29 22:41:03,552	24307	ProductApp	[main]	customer with customer Id : 89 , not deleted successfully
+INFO	2021-07-29 22:41:14,285	35040	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 22:41:14 IST 2021
+ERROR	2021-07-29 22:41:39,116	59871	ProductApp	[main]	employee not exists!
+INFO	2021-07-29 22:51:34,805	0	ProductApp	[main]	User starting delete employee sectionThu Jul 29 22:51:34 IST 2021
+INFO	2021-07-29 22:51:39,072	4267	ProductApp	[main]	#employee with employee Id : -99 , deleted successfully
+INFO	2021-07-29 22:51:49,082	14277	ProductApp	[main]	User starting delete employee sectionThu Jul 29 22:51:49 IST 2021
+ERROR	2021-07-29 22:51:51,499	16694	ProductApp	[main]	employee not exists
+INFO	2021-07-29 22:51:51,499	16694	ProductApp	[main]	#employee with employee Id : -999 , deleted successfully
+INFO	2021-07-29 22:53:45,677	0	ProductApp	[main]	User starting view all customers sectionThu Jul 29 22:53:45 IST 2021
+INFO	2021-07-29 22:53:49,008	3331	ProductApp	[main]	User starting view all employees sectionThu Jul 29 22:53:49 IST 2021
+INFO	2021-07-29 22:54:01,206	15529	ProductApp	[main]	User starting delete customer sectionThu Jul 29 22:54:01 IST 2021
+ERROR	2021-07-29 22:54:12,111	26434	ProductApp	[main]	employee not exists
+ERROR	2021-07-29 22:54:12,112	26435	ProductApp	[main]	customer with customer Id : 8 , not deleted successfully
+INFO	2021-07-29 22:54:16,129	30452	ProductApp	[main]	User starting delete customer sectionThu Jul 29 22:54:16 IST 2021
+ERROR	2021-07-29 22:54:26,875	41198	ProductApp	[main]	customer with customer Id : 7 , not deleted successfully
+INFO	2021-07-29 22:54:50,264	64587	ProductApp	[main]	User starting view all customers sectionThu Jul 29 22:54:50 IST 2021
+INFO	2021-07-29 22:55:05,585	79908	ProductApp	[main]	User starting delete customer sectionThu Jul 29 22:55:05 IST 2021
+ERROR	2021-07-29 22:55:06,980	81303	ProductApp	[main]	customer with customer Id : 3 , not deleted successfully
+INFO	2021-07-29 23:00:05,721	0	ProductApp	[main]	User starting view all customers sectionThu Jul 29 23:00:05 IST 2021
+INFO	2021-07-29 23:00:19,783	14062	ProductApp	[main]	User starting view all employees sectionThu Jul 29 23:00:19 IST 2021
+INFO	2021-07-29 23:00:24,116	18395	ProductApp	[main]	User starting delete customer sectionThu Jul 29 23:00:24 IST 2021
+ERROR	2021-07-29 23:00:33,578	27857	ProductApp	[main]	employee not exists
+ERROR	2021-07-29 23:00:33,579	27858	ProductApp	[main]	customer with customer Id : 8 , not deleted successfully
+INFO	2021-07-29 23:00:37,441	31720	ProductApp	[main]	User starting delete customer sectionThu Jul 29 23:00:37 IST 2021
+INFO	2021-07-29 23:00:47,985	42264	ProductApp	[main]	#customer withcustomer Id : 7 , deleted successfully
+INFO	2021-07-29 23:00:56,988	51267	ProductApp	[main]	User starting view all customers sectionThu Jul 29 23:00:56 IST 2021
+INFO	2021-07-29 23:01:01,821	56100	ProductApp	[main]	User starting Find customer by Id sectionThu Jul 29 23:01:01 IST 2021
+INFO	2021-07-29 23:01:07,433	61712	ProductApp	[main]	Customer with 9 found successfully
+INFO	2021-07-29 23:01:17,306	71585	ProductApp	[main]	User starting Find employee by Id sectionThu Jul 29 23:01:17 IST 2021
+INFO	2021-07-29 23:01:22,523	76802	ProductApp	[main]	employee with 6 found successfully
+INFO	2021-07-29 23:01:50,480	104759	ProductApp	[main]	User starting Find employee by Id sectionThu Jul 29 23:01:50 IST 2021
+INFO	2021-07-29 23:01:51,601	105880	ProductApp	[main]	employee with 5 found successfully
+INFO	2021-07-29 23:02:18,747	133026	ProductApp	[main]	User starting Find customer by Id sectionThu Jul 29 23:02:18 IST 2021
+INFO	2021-07-29 23:02:22,207	136486	ProductApp	[main]	Customer with 5 found successfully
+INFO	2021-07-29 23:02:27,074	141353	ProductApp	[main]	User starting Find customer by Name sectionThu Jul 29 23:02:27 IST 2021
+INFO	2021-07-29 23:02:29,452	143731	ProductApp	[main]	Customer with lilly found successfully
+INFO	2021-07-29 23:06:25,417	0	ProductApp	[main]	User starting Find customer by Id sectionThu Jul 29 23:06:25 IST 2021
+ERROR	2021-07-29 23:06:29,646	4229	ProductApp	[main]	Customer with -9877 not found successfully
+INFO	2021-07-29 23:06:40,583	15166	ProductApp	[main]	User starting Find customer by Id sectionThu Jul 29 23:06:40 IST 2021
+ERROR	2021-07-29 23:06:43,223	17806	ProductApp	[main]	Customer with 1 not found successfully
+INFO	2021-07-29 23:06:47,901	22484	ProductApp	[main]	User starting view all customers sectionThu Jul 29 23:06:47 IST 2021
+INFO	2021-07-29 23:06:51,283	25866	ProductApp	[main]	User starting Find customer by Id sectionThu Jul 29 23:06:51 IST 2021
+INFO	2021-07-29 23:06:51,933	26516	ProductApp	[main]	Customer with 3 found successfully
+INFO	2021-07-29 23:06:55,689	30272	ProductApp	[main]	User starting view all customers sectionThu Jul 29 23:06:55 IST 2021
+INFO	2021-07-29 23:07:28,772	0	ProductApp	[main]	User starting view all customers sectionThu Jul 29 23:07:28 IST 2021
+INFO	2021-07-29 23:07:29,380	608	ProductApp	[main]	User starting view all employees sectionThu Jul 29 23:07:29 IST 2021
+INFO	2021-07-29 23:07:41,934	13162	ProductApp	[main]	User starting delete customer sectionThu Jul 29 23:07:41 IST 2021
+INFO	2021-07-29 23:07:51,868	23096	ProductApp	[main]	#customer withcustomer Id : 6 , deleted successfully
+INFO	2021-07-29 23:07:59,471	30699	ProductApp	[main]	User starting Find customer by Id sectionThu Jul 29 23:07:59 IST 2021
+INFO	2021-07-29 23:08:00,910	32138	ProductApp	[main]	Customer with 5 found successfully
+INFO	2021-07-29 23:08:08,723	39951	ProductApp	[main]	User starting Find customer by Name sectionThu Jul 29 23:08:08 IST 2021
+INFO	2021-07-29 23:08:21,559	52787	ProductApp	[main]	Customer with shalini found successfully
+INFO	2021-07-29 23:08:26,909	58137	ProductApp	[main]	User starting Find employee by Id sectionThu Jul 29 23:08:26 IST 2021
+INFO	2021-07-29 23:08:31,900	63128	ProductApp	[main]	employee with 444 found successfully
+INFO	2021-07-29 23:08:36,183	67411	ProductApp	[main]	User starting Find employee by Id sectionThu Jul 29 23:08:36 IST 2021
+INFO	2021-07-29 23:08:38,316	69544	ProductApp	[main]	employee with -98 found successfully
+INFO	2021-07-29 23:09:43,037	0	ProductApp	[main]	User starting Find employee by Id sectionThu Jul 29 23:09:43 IST 2021
+ERROR	2021-07-29 23:09:45,566	2529	ProductApp	[main]	employee with -987 not found successfully
+INFO	2021-07-29 23:09:49,724	6687	ProductApp	[main]	User starting Find employee by Id sectionThu Jul 29 23:09:49 IST 2021
+INFO	2021-07-29 23:09:54,457	11420	ProductApp	[main]	employee with 444 found successfully
+INFO	2021-07-29 23:10:00,815	17778	ProductApp	[main]	User starting Find employee by Name sectionThu Jul 29 23:10:00 IST 2021
+INFO	2021-07-29 23:10:09,902	26865	ProductApp	[main]	employee with mathi found successfully
+INFO	2021-07-29 23:10:14,518	31481	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 23:10:14 IST 2021
+ERROR	2021-07-29 23:10:21,674	38637	ProductApp	[main]	employee not exists!
+INFO	2021-07-29 23:10:25,451	42414	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 23:10:25 IST 2021
+INFO	2021-07-29 23:10:54,956	71919	ProductApp	[main]	Employee starting withdrawal section Thu Jul 29 23:10:54 IST 2021
+INFO	2021-07-29 23:11:00,364	77327	ProductApp	[main]	Withdrawn successfully!
+INFO	2021-07-29 23:11:04,807	81770	ProductApp	[main]	Employee starting deposit sectionThu Jul 29 23:11:04 IST 2021
+ERROR	2021-07-29 23:11:09,132	86095	ProductApp	[main]	employee not exists!
+INFO	2021-07-29 23:11:12,680	89643	ProductApp	[main]	Employee starting deposit sectionThu Jul 29 23:11:12 IST 2021
+INFO	2021-07-29 23:11:26,419	103382	ProductApp	[main]	Employee starting deposit sectionThu Jul 29 23:11:26 IST 2021
+INFO	2021-07-29 23:11:29,616	106579	ProductApp	[main]	deposited succesfully!
+INFO	2021-07-29 23:12:59,965	196928	ProductApp	[main]	User starting view all employees sectionThu Jul 29 23:12:59 IST 2021
+INFO	2021-07-29 23:13:08,990	205953	ProductApp	[main]	User starting delete employee sectionThu Jul 29 23:13:08 IST 2021
+INFO	2021-07-29 23:13:18,547	215510	ProductApp	[main]	#employee with employee Id : 666 , deleted successfully
+INFO	2021-07-29 23:16:55,977	432940	ProductApp	[main]	customer starting withdrawal section
+INFO	2021-07-29 23:17:01,588	438551	ProductApp	[main]	Withdrawn successfully!
+INFO	2021-07-29 23:17:04,806	441769	ProductApp	[main]	customer starting deposit section
+INFO	2021-07-29 23:29:51,655	0	ProductApp	[main]	User starting view all customers sectionThu Jul 29 23:29:51 IST 2021
+INFO	2021-07-29 23:29:54,192	2537	ProductApp	[main]	User starting view all employees sectionThu Jul 29 23:29:54 IST 2021
